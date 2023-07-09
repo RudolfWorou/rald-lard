@@ -6,7 +6,6 @@
 - [Contributing](#contributing)
 - [License](#license)
 - [Roadmap](#roadmap)
-- [Acknowledgments](#acknowledgments)
 - [Contact](#contact)
 
 ## Project Overview
@@ -77,10 +76,6 @@ This project is licensed under the [MIT License](https://github.com/RudolfWorou/
 
 ## Roadmap
 To be defined depending on the feedbacks.
-
-## Acknowledgments
-
-[Optional: Express your gratitude to individuals or organizations for their contributions, support, or inspiration.]
 
 ## Contact
 
